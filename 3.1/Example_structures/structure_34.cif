@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_KAl3Cu2PS9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.81722639
+_cell_length_b   7.46378728
+_cell_length_c   9.30842590
+_cell_angle_alpha   87.98903086
+_cell_angle_beta   84.31743554
+_cell_angle_gamma   83.42652456
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KAl3Cu2PS9
+_chemical_formula_sum   'K1 Al3 Cu2 P1 S9'
+_cell_volume   399.41281966
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.92146957  0.68636757  0.85207582  1
+  S  S1  1  0.89202255  0.36477059  0.60063714  1
+  S  S2  1  0.39634967  0.14962639  0.35422269  1
+  S  S3  1  0.43263280  0.81171715  0.08315237  1
+  S  S4  1  0.91630995  0.52807719  0.21285413  1
+  Cu  Cu5  1  0.11860301  0.09664714  0.55427963  1
+  Al  Al6  1  0.66375053  0.85385472  0.28038123  1
+  Cu  Cu7  1  0.51137233  0.47720402  0.69401652  1
+  P  P8  1  0.27902743  0.07945766  0.95750397  1
+  S  S9  1  0.34147131  0.98132253  0.73982710  1
+  Al  Al10  1  0.03723046  0.58082545  0.44182423  1
+  Al  Al11  1  0.41569531  0.47592047  0.21398170  1
+  S  S12  1  0.88940620  0.87852740  0.49488670  1
+  S  S13  1  0.93178803  0.04392972  0.09962358  1
+  S  S14  1  0.41006890  0.63931316  0.45385140  1
+  S  S15  1  0.43182158  0.34631085  0.94821668  1

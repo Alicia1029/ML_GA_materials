@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ba2BiMoNO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.92681202
+_cell_length_b   5.10719647
+_cell_length_c   8.91063118
+_cell_angle_alpha   87.36178059
+_cell_angle_beta   88.06697700
+_cell_angle_gamma   90.00370286
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2BiMoNO5
+_chemical_formula_sum   'Ba2 Bi1 Mo1 N1 O5'
+_cell_volume   223.84566492
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.81255907  0.73305792  0.93490493  1
+  N  N1  1  0.30704305  0.23928799  0.43324268  1
+  Ba  Ba2  1  0.80484527  0.24438576  0.68967819  1
+  Ba  Ba3  1  0.80153865  0.23222184  0.19028322  1
+  O  O4  1  0.30117321  0.72661984  0.20654520  1
+  O  O5  1  0.30177882  0.74208891  0.66552764  1
+  Bi  Bi6  1  0.29221693  0.74531364  0.93570763  1
+  O  O7  1  0.29491931  0.24244562  0.93977964  1
+  Mo  Mo8  1  0.29716939  0.73135459  0.43482023  1
+  O  O9  1  0.80763417  0.74146968  0.43726444  1

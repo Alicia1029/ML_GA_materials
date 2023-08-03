@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Sr3CdOsPd2Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.33122127
+_cell_length_b   5.70750973
+_cell_length_c   6.79177380
+_cell_angle_alpha   83.44991244
+_cell_angle_beta   83.02466495
+_cell_angle_gamma   86.55602967
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr3CdOsPd2Au
+_chemical_formula_sum   'Sr3 Cd1 Os1 Pd2 Au1'
+_cell_volume   203.56753181
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Os  Os0  1  0.07056200  0.33190629  0.81278694  1
+  Pd  Pd1  1  0.52509469  0.87970078  0.78726381  1
+  Pd  Pd2  1  0.54423189  0.92150146  0.32989174  1
+  Sr  Sr3  1  0.05577815  0.80640620  0.08468647  1
+  Cd  Cd4  1  0.57643479  0.37146249  0.02513867  1
+  Sr  Sr5  1  0.06605048  0.82528841  0.57598782  1
+  Au  Au6  1  0.11637821  0.29730946  0.31284988  1
+  Sr  Sr7  1  0.57371897  0.38137484  0.53688067  1

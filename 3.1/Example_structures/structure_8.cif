@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_CsVCoPd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.86015032
+_cell_length_b   4.21879721
+_cell_length_c   5.71253777
+_cell_angle_alpha   86.72251590
+_cell_angle_beta   86.33501881
+_cell_angle_gamma   86.44682098
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsVCoPd
+_chemical_formula_sum   'Cs1 V1 Co1 Pd1'
+_cell_volume   92.52873146
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.96667510  0.11247355  0.98333824  1
+  Pd  Pd1  1  0.48025605  0.10878974  0.48248824  1
+  Co  Co2  1  0.47205657  0.60751802  0.48470968  1
+  V  V3  1  0.97970015  0.61025316  0.47950208  1

@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_K2CeBiSe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.36265159
+_cell_length_b   5.43208002
+_cell_length_c   7.23917532
+_cell_angle_alpha   92.64203571
+_cell_angle_beta   96.83692655
+_cell_angle_gamma   94.76158290
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2CeBiSe3
+_chemical_formula_sum   'K2 Ce1 Bi1 Se3'
+_cell_volume   208.32335433
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.88064677  0.27657607  0.07100685  1
+  K  K1  1  0.40317720  0.79926348  0.57354820  1
+  Bi  Bi2  1  0.39411622  0.78779715  0.08144238  1
+  Se  Se3  1  0.91050804  0.78246510  0.82423592  1
+  Se  Se4  1  0.89954877  0.77181917  0.32372776  1
+  Se  Se5  1  0.39984930  0.28013569  0.31600487  1
+  K  K6  1  0.93526787  0.27508631  0.57914573  1

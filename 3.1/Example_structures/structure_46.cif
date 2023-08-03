@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_KLaNiSbTePtSe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.27355170
+_cell_length_b   5.13833476
+_cell_length_c   9.17600441
+_cell_angle_alpha   85.99632327
+_cell_angle_beta   87.28589007
+_cell_angle_gamma   89.39608240
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KLaNiSbTePtSe2
+_chemical_formula_sum   'K1 La1 Ni1 Sb1 Te1 Pt1 Se2'
+_cell_volume   200.77282053
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Se  Se0  1  0.42823064  0.90665400  0.48952115  1
+  Sb  Sb1  1  0.93377149  0.38413513  0.18403614  1
+  Ni  Ni2  1  0.42820337  0.37492335  0.35133588  1
+  Se  Se3  1  0.94241083  0.91001201  0.89067048  1
+  Pt  Pt4  1  0.45432073  0.93210655  0.76049215  1
+  Te  Te5  1  0.44079927  0.42144260  0.90610671  1
+  La  La6  1  0.43784207  0.89333057  0.13155931  1
+  K  K7  1  0.95344585  0.41887522  0.60785550  1

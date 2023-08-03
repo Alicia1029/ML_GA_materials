@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_RbUOsO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.27861977
+_cell_length_b   5.61051058
+_cell_length_c   6.66897774
+_cell_angle_alpha   77.09476943
+_cell_angle_beta   78.91063703
+_cell_angle_gamma   82.62221278
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbUOsO7
+_chemical_formula_sum   'Rb1 U1 Os1 O7'
+_cell_volume   188.16789768
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.67037886  0.10545386  0.22410716  1
+  O  O1  1  0.15286988  0.57780898  0.92421740  1
+  O  O2  1  0.81432122  0.34755442  0.82759440  1
+  O  O3  1  0.04028362  0.34114304  0.30453244  1
+  Os  Os4  1  0.92926651  0.33725950  0.06106348  1
+  O  O5  1  0.64451861  0.61567813  0.13761090  1
+  U  U6  1  0.42245755  0.87223339  0.22601560  1
+  O  O7  1  0.20815431  0.06780542  0.03948044  1
+  O  O8  1  0.28234816  0.79623222  0.45540327  1
+  Rb  Rb9  1  0.72084415  0.91213399  0.68305904  1

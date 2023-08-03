@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_KTePbAuO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.52673985
+_cell_length_b   4.96432897
+_cell_length_c   5.99691296
+_cell_angle_alpha   81.92251849
+_cell_angle_beta   79.97488320
+_cell_angle_gamma   83.34864558
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KTePbAuO2
+_chemical_formula_sum   'K1 Te1 Pb1 Au1 O2'
+_cell_volume   130.81153806
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.96628314  0.59446305  0.91101837  1
+  Au  Au1  1  0.83092612  0.46938628  0.44518214  1
+  Pb  Pb2  1  0.39730617  0.03195481  0.41404703  1
+  Te  Te3  1  0.51888585  0.11871331  0.88926703  1
+  O  O4  1  0.40222335  0.57164276  0.20198229  1
+  O  O5  1  0.96299988  0.04797176  0.16037743  1

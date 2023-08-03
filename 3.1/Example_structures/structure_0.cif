@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_KZrVNiTeAsPSeSBr2Cl5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.19837521
+_cell_length_b   7.76970624
+_cell_length_c   9.92901421
+_cell_angle_alpha   88.20240628
+_cell_angle_beta   88.71206780
+_cell_angle_gamma   88.02399833
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KZrVNiTeAsPSeSBr2Cl5
+_chemical_formula_sum   'K1 Zr1 V1 Ni1 Te1 As1 P1 Se1 S1 Br2 Cl5'
+_cell_volume   477.54780118
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.62320369  0.11818556  0.36325169  1
+  As  As1  1  0.11673617  0.35801250  0.13195619  1
+  Ni  Ni2  1  0.42890704  0.84636301  0.54182088  1
+  Cl  Cl3  1  0.13342924  0.86434740  0.37633127  1
+  Br  Br4  1  0.95542270  0.61077183  0.04099984  1
+  Cl  Cl5  1  0.78159565  0.35569850  0.70556563  1
+  Zr  Zr6  1  0.95744848  0.61848140  0.53923529  1
+  Se  Se7  1  0.77533597  0.87156004  0.69869930  1
+  Cl  Cl8  1  0.30832243  0.10150173  0.70099694  1
+  S  S9  1  0.12058411  0.37537712  0.36508748  1
+  V  V10  1  0.63126987  0.12245213  0.86775368  1
+  Te  Te11  1  0.45434630  0.36795187  0.02887460  1
+  Br  Br12  1  0.62691063  0.62865692  0.36312664  1
+  Cl  Cl13  1  0.28967345  0.62268698  0.69943422  1
+  P  P14  1  0.95400214  0.13846649  0.03054084  1
+  Cl  Cl15  1  0.47794950  0.89113796  0.02559296  1

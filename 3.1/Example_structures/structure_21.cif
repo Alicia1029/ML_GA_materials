@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_ZrCdGePt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.20182872
+_cell_length_b   4.50810838
+_cell_length_c   4.89050913
+_cell_angle_alpha   81.02855566
+_cell_angle_beta   80.98680361
+_cell_angle_gamma   83.96502287
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrCdGePt
+_chemical_formula_sum   'Zr1 Cd1 Ge1 Pt1'
+_cell_volume   90.06453365
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.19801603  0.11351687  0.49049529  1
+  Ge  Ge1  1  0.69148964  0.61102301  0.49590749  1
+  Pt  Pt2  1  0.67635918  0.10457025  0.99734461  1
+  Zr  Zr3  1  0.18383354  0.61119348  0.99685973  1

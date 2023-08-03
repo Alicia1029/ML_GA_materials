@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_RbNaVBiMo(OF)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.52922645
+_cell_length_b   5.88727447
+_cell_length_c   6.33667421
+_cell_angle_alpha   85.21518900
+_cell_angle_beta   87.45388560
+_cell_angle_gamma   92.38456936
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbNaVBiMo(OF)4
+_chemical_formula_sum   'Rb1 Na1 V1 Bi1 Mo1 O4 F4'
+_cell_volume   205.13728805
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.31110248  0.40303656  0.94697267  1
+  O  O1  1  0.08606508  0.57989901  0.43132168  1
+  F  F2  1  0.31666031  0.92756468  0.15320811  1
+  V  V3  1  0.82465369  0.40963361  0.44795573  1
+  O  O4  1  0.81824553  0.41134498  0.16554163  1
+  Bi  Bi5  1  0.30945349  0.90210408  0.44750664  1
+  O  O6  1  0.99363732  0.14556459  0.45215917  1
+  O  O7  1  0.80752838  0.40264067  0.71947360  1
+  Mo  Mo8  1  0.80820107  0.41076773  0.44253254  1
+  F  F9  1  0.52446437  0.22125873  0.46586689  1
+  F  F10  1  0.62628591  0.66153163  0.43132919  1
+  F  F11  1  0.30471286  0.89391530  0.73740852  1
+  Na  Na12  1  0.81156695  0.90405190  0.95550156  1

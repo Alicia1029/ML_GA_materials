@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_NaCaCeNdYMg2PtS10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.76219310
+_cell_length_b   8.14112505
+_cell_length_c   8.88393307
+_cell_angle_alpha   96.04829949
+_cell_angle_beta   90.06911718
+_cell_angle_gamma   91.36714643
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaCaCeNdYMg2PtS10
+_chemical_formula_sum   'Na1 Ca1 Ce1 Nd1 Y1 Mg2 Pt1 S10'
+_cell_volume   414.31107133
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  S  S0  1  0.56730384  0.82885772  0.95351088  1
+  S  S1  1  0.07021187  0.12371600  0.04958780  1
+  S  S2  1  0.57352448  0.64334130  0.54819709  1
+  Ce  Ce3  1  0.56923354  0.13555582  0.04625005  1
+  Mg  Mg4  1  0.06403135  0.03994852  0.35016370  1
+  S  S5  1  0.57063103  0.42944881  0.15428399  1
+  Na  Na6  1  0.07387568  0.43229681  0.15783207  1
+  Y  Y7  1  0.56810343  0.34315374  0.45248663  1
+  S  S8  1  0.56922603  0.03754042  0.34777886  1
+  S  S9  1  0.07527068  0.73534566  0.25697640  1
+  S  S10  1  0.07034857  0.92964405  0.64213753  1
+  Ca  Ca11  1  0.07073603  0.23493183  0.74993807  1
+  Mg  Mg12  1  0.56538808  0.72896844  0.25334316  1
+  S  S13  1  0.56906933  0.23828669  0.75161684  1
+  S  S14  1  0.07497974  0.54323447  0.84653753  1
+  Pt  Pt15  1  0.06552936  0.82537079  0.95898330  1
+  Nd  Nd16  1  0.06599646  0.64265633  0.55124784  1
+  S  S17  1  0.06628583  0.33745140  0.45545888  1

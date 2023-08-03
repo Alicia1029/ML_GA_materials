@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_RbBaSe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.98083155
+_cell_length_b   4.66953683
+_cell_length_c   6.23560905
+_cell_angle_alpha   86.04491961
+_cell_angle_beta   84.42882242
+_cell_angle_gamma   85.13684205
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbBaSe2
+_chemical_formula_sum   'Rb1 Ba1 Se2'
+_cell_volume   114.73281511
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.77865070  0.31835175  0.76388562  1
+  Se  Se1  1  0.78539562  0.30600479  0.24821982  1
+  Rb  Rb2  1  0.29022264  0.80255479  0.24926570  1
+  Se  Se3  1  0.28369284  0.81348413  0.75360012  1

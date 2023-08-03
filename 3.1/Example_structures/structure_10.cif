@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_CsKGe2TeI
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.72685184
+_cell_length_b   5.02679538
+_cell_length_c   8.18704414
+_cell_angle_alpha   87.98302727
+_cell_angle_beta   87.62546674
+_cell_angle_gamma   92.90174275
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsKGe2TeI
+_chemical_formula_sum   'Cs1 K1 Ge2 Te1 I1'
+_cell_volume   193.97981859
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.40704939  0.12481170  0.85515243  1
+  Cs  Cs1  1  0.40683606  0.64216971  0.51456803  1
+  Ge  Ge2  1  0.91499954  0.14771296  0.68376136  1
+  K  K3  1  0.89628333  0.63717359  0.02239440  1
+  Ge  Ge4  1  0.39352211  0.16059597  0.18746735  1
+  Te  Te5  1  0.88955969  0.14182189  0.34713951  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LiCeAlZnSnP4PdPb2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.28784704
+_cell_length_b   5.68516565
+_cell_length_c   7.83573723
+_cell_angle_alpha   90.40870734
+_cell_angle_beta   89.53006500
+_cell_angle_gamma   97.41024360
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCeAlZnSnP4PdPb2
+_chemical_formula_sum   'Li1 Ce1 Al1 Zn1 Sn1 P4 Pd1 Pb2'
+_cell_volume   233.58056473
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn0  1  0.62286139  0.26091614  0.58349949  1
+  Zn  Zn1  1  0.50396776  0.50667852  0.25016099  1
+  P  P2  1  0.11010991  0.22804381  0.44210806  1
+  Pb  Pb3  1  0.67103255  0.73816097  0.92435497  1
+  Pb  Pb4  1  0.08479708  0.23489252  0.08547743  1
+  P  P5  1  0.16542123  0.74297208  0.05519442  1
+  P  P6  1  0.55324239  0.75215489  0.57127690  1
+  Pd  Pd7  1  0.16477790  0.47163916  0.74673963  1
+  P  P8  1  0.58287942  0.23730092  0.93322432  1
+  Ce  Ce9  1  0.03509251  0.72186309  0.40957999  1
+  Li  Li10  1  0.54400659  0.00733990  0.25711787  1
+  Al  Al11  1  0.19768579  0.96496612  0.75781643  1

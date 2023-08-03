@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_BaNa2LiCeSmAl2ZnGa2Ge2Pt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.45048283
+_cell_length_b   5.65569797
+_cell_length_c   9.13590527
+_cell_angle_alpha   86.55966367
+_cell_angle_beta   88.95889722
+_cell_angle_gamma   87.82853641
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaNa2LiCeSmAl2ZnGa2Ge2Pt
+_chemical_formula_sum   'Ba1 Na2 Li1 Ce1 Sm1 Al2 Zn1 Ga2 Ge2 Pt1'
+_cell_volume   280.88093773
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.68012065  0.65618151  0.86445940  1
+  Na  Na1  1  0.06480908  0.69843340  0.36842680  1
+  Ba  Ba2  1  0.68469769  0.40390512  0.18477686  1
+  Al  Al3  1  0.41870868  0.90145183  0.07937797  1
+  Ga  Ga4  1  0.70103872  0.87447703  0.60749060  1
+  Li  Li5  1  0.97251266  0.45764875  0.68238652  1
+  Sm  Sm6  1  0.18999586  0.93128127  0.75164700  1
+  Ce  Ce7  1  0.47807348  0.38453335  0.56033528  1
+  Ge  Ge8  1  0.93773603  0.90504748  0.07019675  1
+  Na  Na9  1  0.18873084  0.41813961  0.96421802  1
+  Ge  Ge10  1  0.53981817  0.90732718  0.35381675  1
+  Al  Al11  1  0.20629182  0.20054834  0.25919724  1
+  Pt  Pt12  1  0.96135622  0.18598320  0.48225766  1
+  Ga  Ga13  1  0.69016057  0.15535793  0.85502923  1

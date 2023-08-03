@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Ba2GdO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.86161580
+_cell_length_b   5.13206309
+_cell_length_c   6.71227169
+_cell_angle_alpha   78.85392536
+_cell_angle_beta   78.98544924
+_cell_angle_gamma   77.62655900
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2GdO4
+_chemical_formula_sum   'Ba2 Gd1 O4'
+_cell_volume   158.52786695
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.05906675  0.82489276  0.83879185  1
+  Ba  Ba1  1  0.23622604  0.53837597  0.49755353  1
+  O  O2  1  0.64161706  0.47459012  0.79465151  1
+  O  O3  1  0.60525793  0.98523998  0.54761720  1
+  O  O4  1  0.48677385  0.86142075  0.08432582  1
+  Gd  Gd5  1  0.58572096  0.84251887  0.81060505  1
+  Ba  Ba6  1  0.90731502  0.16367041  0.13966385  1

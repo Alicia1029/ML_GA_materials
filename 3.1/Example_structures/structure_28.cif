@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_PaGaCoPd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.94853687
+_cell_length_b   4.20236784
+_cell_length_c   4.42359734
+_cell_angle_alpha   87.44165960
+_cell_angle_beta   90.30196519
+_cell_angle_gamma   90.97572518
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PaGaCoPd
+_chemical_formula_sum   'Pa1 Ga1 Co1 Pd1'
+_cell_volume   73.31711432
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.11146741  0.86820728  0.53328103  1
+  Ga  Ga1  1  0.61546183  0.37167951  0.53792238  1
+  Pd  Pd2  1  0.11356568  0.37183332  0.03750202  1
+  Pa  Pa3  1  0.61839235  0.87615335  0.04783434  1

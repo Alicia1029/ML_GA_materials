@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ce2PrEuCdGaNiBi(AsSe)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.84441685
+_cell_length_b   6.65200075
+_cell_length_c   9.57021332
+_cell_angle_alpha   83.23017864
+_cell_angle_beta   83.49137150
+_cell_angle_gamma   82.56062821
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce2PrEuCdGaNiBi(AsSe)3
+_chemical_formula_sum   'Ce2 Pr1 Eu1 Cd1 Ga1 Ni1 Bi1 As3 Se3'
+_cell_volume   364.53534789
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.26518762  0.99737298  0.06535978  1
+  Cd  Cd1  1  0.20163587  0.26197565  0.37720358  1
+  Bi  Bi2  1  0.69541103  0.26594839  0.88133264  1
+  Ce  Ce3  1  0.76723593  0.99060959  0.56568652  1
+  As  As4  1  0.71588683  0.98309332  0.22533235  1
+  Se  Se5  1  0.86741781  0.84092760  0.93569982  1
+  Se  Se6  1  0.23480867  0.99695343  0.70749933  1
+  Pr  Pr7  1  0.66148901  0.50432014  0.19958116  1
+  Ce  Ce8  1  0.12731853  0.52381241  0.68742907  1
+  Ga  Ga9  1  0.53431523  0.67494595  0.81843370  1
+  Ni  Ni10  1  0.37020522  0.83217514  0.43585333  1
+  As  As11  1  0.67489356  0.51276481  0.54079139  1
+  Se  Se12  1  0.19077107  0.51437390  0.03704008  1
+  As  As13  1  0.06171155  0.67543620  0.33660218  1

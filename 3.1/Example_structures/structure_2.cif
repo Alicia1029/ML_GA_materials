@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_PaZnInGaSnPd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.70800176
+_cell_length_b   5.38893776
+_cell_length_c   5.44606686
+_cell_angle_alpha   92.29626424
+_cell_angle_beta   90.25305419
+_cell_angle_gamma   94.48959660
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PaZnInGaSnPd
+_chemical_formula_sum   'Pa1 Zn1 In1 Ga1 Sn1 Pd1'
+_cell_volume   137.63431941
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.98790157  0.94328755  0.20997575  1
+  Pd  Pd1  1  0.99669904  0.44880915  0.47887698  1
+  In  In2  1  0.97916770  0.41495529  0.92171067  1
+  Ga  Ga3  1  0.49013296  0.67000747  0.19700083  1
+  Pa  Pa4  1  0.48997709  0.92962581  0.70842332  1
+  Sn  Sn5  1  0.47589663  0.20079827  0.20821832  1
