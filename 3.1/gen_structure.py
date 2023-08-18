@@ -22,3 +22,14 @@ for i in range(num_structures):
     elements.append([Element.from_Z(x) for x in atoms[i]])
     structure = Structure(lattice, elements[i], coords[i], coords_are_cartesian=False)
     structure.to(fmt="cif", filename=f"structure_{i}.cif")
+
+# frac_coords is fractional coordinates (num_structures * num_atoms, 3)
+# y is target property
+# edge_index defines the graph ([from_index, to_index], total_num_bonds)
+# to_jimages is whether a bond crosses a periodic boundary (total_num_bonds, 3)
+# angles is cell angles (num_structures, 3)
+# lengths is cell lengths (num_structures, 3)
+# num_atoms is number of atoms per structure (num_structures, )
+# num_bonds is number of bonds per structure (num_structures, )
+# atom_types is atomic number (num_structures * num_atoms, )
+# batch is which atom belongs to which structure (num_structures * num_atoms, )
