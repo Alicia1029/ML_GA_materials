@@ -20,11 +20,12 @@ Ag_cif contains five reference Ag structures from the Materials Project
 
 3.2.3 is GA with CHGNet in relaxation function, structures encoded by CDVAE
 
-3.2_test file tests the cosine similarity and energies of Ag structures encoded by CDVAE
+3.2_cdva_chgnet_test file tests the cosine similarity and energies of Ag structures encoded by CDVAE
 
-### Section 3.3 shows the invariance problem of CDVAE
+3.2.4 shows the invariance problem of CDVAE
 
-### Section 3.4
+
+### Section 3.3
 
 only-chgnet is GA with CHGNet in relaxation function, structures also encoded by CHGNet
 
